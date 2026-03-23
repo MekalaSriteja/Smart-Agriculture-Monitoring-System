@@ -27,8 +27,6 @@ The system sends data to the ThingSpeak cloud platform, allowing users to monito
   ## 📸 Project Screenshots
 
 ### 🖥️ GUI
-![GUI](screenshots/motoroffgui.png)
-
 ###  Humidity
 ![Humidity](screenshots/humidity.png)
 ### 📊 Graph
