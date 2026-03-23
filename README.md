@@ -24,7 +24,19 @@ The system sends data to the ThingSpeak cloud platform, allowing users to monito
 ## ▶️ How to Run
 1. Install required libraries:
 2.  Run the Python file:
-  
+  ## 📸 Project Screenshots
+
+### 🖥️ GUI
+![GUI](screenshots/gui.png)
+
+### 📊 Graph
+![Graph](screenshots/graph.png)
+
+### ⚠️ Alert
+![Alert](screenshots/alert.png)
+
+### ☁️ Cloud (ThingSpeak)
+![Cloud](screenshots/cloud.png)
 ## 🔮 Future Scope
 - Integration with real IoT sensors
 - Mobile application development
